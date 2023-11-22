@@ -1,0 +1,14 @@
+C:\Users\abhiram.v\source\repos\TryAndExceptions\TryAndExceptions\bin\Debug\net6.0\TryAndExceptions.exe
+C:\Users\abhiram.v\source\repos\TryAndExceptions\TryAndExceptions\bin\Debug\net6.0\TryAndExceptions.deps.json
+C:\Users\abhiram.v\source\repos\TryAndExceptions\TryAndExceptions\bin\Debug\net6.0\TryAndExceptions.runtimeconfig.json
+C:\Users\abhiram.v\source\repos\TryAndExceptions\TryAndExceptions\bin\Debug\net6.0\TryAndExceptions.dll
+C:\Users\abhiram.v\source\repos\TryAndExceptions\TryAndExceptions\bin\Debug\net6.0\TryAndExceptions.pdb
+C:\Users\abhiram.v\source\repos\TryAndExceptions\TryAndExceptions\obj\Debug\net6.0\TryAndExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhiram.v\source\repos\TryAndExceptions\TryAndExceptions\obj\Debug\net6.0\TryAndExceptions.AssemblyInfoInputs.cache
+C:\Users\abhiram.v\source\repos\TryAndExceptions\TryAndExceptions\obj\Debug\net6.0\TryAndExceptions.AssemblyInfo.cs
+C:\Users\abhiram.v\source\repos\TryAndExceptions\TryAndExceptions\obj\Debug\net6.0\TryAndExceptions.csproj.CoreCompileInputs.cache
+C:\Users\abhiram.v\source\repos\TryAndExceptions\TryAndExceptions\obj\Debug\net6.0\TryAndExceptions.dll
+C:\Users\abhiram.v\source\repos\TryAndExceptions\TryAndExceptions\obj\Debug\net6.0\refint\TryAndExceptions.dll
+C:\Users\abhiram.v\source\repos\TryAndExceptions\TryAndExceptions\obj\Debug\net6.0\TryAndExceptions.pdb
+C:\Users\abhiram.v\source\repos\TryAndExceptions\TryAndExceptions\obj\Debug\net6.0\TryAndExceptions.genruntimeconfig.cache
+C:\Users\abhiram.v\source\repos\TryAndExceptions\TryAndExceptions\obj\Debug\net6.0\ref\TryAndExceptions.dll
